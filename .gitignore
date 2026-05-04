@@ -1,0 +1,38 @@
+# Global .gitignore for Arduino Refresh Project
+
+# Ignore compiled files
+*.o
+*.elf
+*.hex
+*.eep
+*.a
+*.so
+
+# Ignore IDE-specific files
+*.swo
+*.swp
+*.swn
+*.swo
+*.swp
+*.swn
+
+# Ignore build directories
+build/
+bin/
+obj/
+
+# Ignore Arduino IDE temporary files
+*.tmp
+*.bak
+*.backup
+
+# Ignore platform-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore dependency directories
+dependencies/
+lib/
+
+# Ignore environment files
+.env
