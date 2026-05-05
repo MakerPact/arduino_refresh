@@ -1,11 +1,25 @@
-# Original Max7219 Library
+LedControl
+==========
+LedControl is an [Arduino](http://arduino.cc) library for MAX7219 and MAX7221 Led display drivers.
+The code also works with the [Teensy (3.1)](https://www.pjrc.com/teensy/)
 
-This folder contains a pristine copy of the original Max7219 library before modifications.
+Documentation
+-------------
+Documentation for the library is on the [Github Project Pages](http://wayoda.github.io/LedControl/)
 
-## Purpose
-- Reference for backward compatibility
-- Diff comparisons
-- Fallback if needed
+Download
+--------
+The lastest binary version of the Library is always available from the 
+[LedControl Release Page](https://github.com/wayoda/LedControl/releases) 
 
-## Status
-- ⏳ Clone original repository pending
+
+Install
+-------
+The library can be installed using the [standard Arduino library install procedure](http://arduino.cc/en/Guide/Libraries)  
+
+
+
+
+
+
+
