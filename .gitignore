@@ -34,5 +34,10 @@ Thumbs.db
 dependencies/
 lib/
 
+# Ignore Hermes folders (analysis, testing, documentation)
+**/hermes/
+*.orig
+*.bak
+
 # Ignore environment files
 .env
